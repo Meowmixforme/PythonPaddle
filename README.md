@@ -1,6 +1,6 @@
-# Python Pong
+# PythonPaddle
 
-A classic Pong arcade game implementation in Python using Pygame. This project features both single-player (against AI) and two-player modes with physics-based ball movement, visual effects, and sound.
+A classic Ping-Pong arcade game implementation in Python using Pygame. This project features both single-player (against AI) and two-player modes with physics-based ball movement, visual effects, and sound.
 
 ![Screenshot 2025-06-14 190737](https://github.com/user-attachments/assets/1f021f79-3ce9-40fd-adfe-ca668c19059b)
 
@@ -74,8 +74,8 @@ A classic Pong arcade game implementation in Python using Pygame. This project f
 ## Project Structure
 
 ```
-pong/
-├── pong/
+pythonpaddle/
+├── pythonpaddle/
 │   ├── __init__.py
 │   ├── assets/
 │   │   └── sounds/
@@ -101,13 +101,13 @@ pong/
 │   │   ├── config.py
 │   │   └── sound_manager.py
 │   └── main.py
-├── pong_main.py
+├── pythonpaddle_main.py
 └── setup.py
 ```
 
 ## Customization
 
-You can customize various aspects of the game by modifying the `pong/utils/config.py` file:
+You can customize various aspects of the game by modifying the `pythonpaddle/utils/config.py` file:
 
 - Window dimensions
 - Colors
@@ -118,9 +118,9 @@ You can customize various aspects of the game by modifying the `pong/utils/confi
 
 ## Sound Credits
 
-- **Score Sound:** CorrectCh_New.mp3 by Gronkjaer | Source | License: Creative Commons 0
-- **Paddle Hit Sound:** Table Tennis by michorvath | Source | License: Creative Commons 0
-- **Wall Hit Sound:** Sports Whistle by SomeGuy22 | Source | License: Creative Commons 0
+- **Score Sound:** CorrectCh_New.mp3 by Gronkjaer | [Source](https://freesound.org/people/Gronkjaer/sounds/654321/) | License: Creative Commons 0
+- **Paddle Hit Sound:** Table Tennis by michorvath | [Source](https://freesound.org/people/michorvath/sounds/269718/) | License: Creative Commons 0
+- **Wall Hit Sound:** Sports Whistle by SomeGuy22 | [Source](https://freesound.org/people/SomeGuy22/sounds/431327/) | License: Creative Commons 0
 
 ## License
 
