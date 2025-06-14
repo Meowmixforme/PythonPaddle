@@ -1,5 +1,7 @@
 # PythonPaddle
 
+Disclaimer: Created as an educational project.
+
 A classic Ping-Pong arcade game implementation in Python using Pygame. This project features both single-player (against AI) and two-player modes with physics-based ball movement, visual effects, and sound.
 
 ![Screenshot 2025-06-14 194002](https://github.com/user-attachments/assets/453b6430-7b73-4839-82d7-acce3ff5490d)
