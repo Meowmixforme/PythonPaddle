@@ -32,8 +32,8 @@ A classic Ping-Pong arcade game implementation in Python using Pygame. This proj
 1. Clone this repository:
 
     ```bash
-    git clone https://github.com/Meowmixforme/python-pong.git
-    cd python-pong
+    git clone https://github.com/Meowmixforme/pythonpaddle.git
+    cd pythonpaddle
     ```
 
 2. Install dependencies:
@@ -45,7 +45,7 @@ A classic Ping-Pong arcade game implementation in Python using Pygame. This proj
 3. Run the game:
 
     ```bash
-    python pong_main.py
+    python pythonpaddle_main.py
     ```
 
 ## How to Play
