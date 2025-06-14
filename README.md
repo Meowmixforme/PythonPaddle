@@ -1,6 +1,6 @@
 # PythonPaddle
 
-Disclaimer: Created as an educational project.
+Disclaimer: This project is a fan-made Pong clone created for educational purposes. It is not affiliated with or endorsed by Atari.
 
 A classic Ping-Pong arcade game implementation in Python using Pygame. This project features both single-player (against AI) and two-player modes with physics-based ball movement, visual effects, and sound.
 
