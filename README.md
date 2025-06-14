@@ -12,7 +12,7 @@ A classic Ping-Pong arcade game implementation in Python using Pygame. This proj
 
 ## Features
 
-- Classic Pong gameplay mechanics
+- Classic Ping-Pong gameplay mechanics
 - Single-player mode with AI opponent
 - Two-player local multiplayer
 - Physics-based ball movement with realistic paddle collisions
