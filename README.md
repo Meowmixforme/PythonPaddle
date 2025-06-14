@@ -2,11 +2,12 @@
 
 A classic Ping-Pong arcade game implementation in Python using Pygame. This project features both single-player (against AI) and two-player modes with physics-based ball movement, visual effects, and sound.
 
-![Screenshot 2025-06-14 190737](https://github.com/user-attachments/assets/1f021f79-3ce9-40fd-adfe-ca668c19059b)
+![Screenshot 2025-06-14 194002](https://github.com/user-attachments/assets/453b6430-7b73-4839-82d7-acce3ff5490d)
 
-![Screenshot 2025-06-14 190753](https://github.com/user-attachments/assets/29d5b859-5384-4d43-9116-ff4e580c9af4)
+![Screenshot 2025-06-14 194018](https://github.com/user-attachments/assets/295ca365-47a3-4447-8abb-39775715d447)
 
-![Screenshot 2025-06-14 190820](https://github.com/user-attachments/assets/f7bb0f57-4ea1-486a-b217-6b53fd487c04)
+![Screenshot 2025-06-14 194101](https://github.com/user-attachments/assets/14ee04a6-6c63-4221-aca1-15678682635b)
+
 
 
 ## Features
